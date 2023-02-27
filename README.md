@@ -1,6 +1,8 @@
 # Customer_Register_Login_Logout
 
 
+http://localhost:8080/swagger-ui/#
+
 RequestBody Sample..
 
 http://localhost:8080/customer/register
