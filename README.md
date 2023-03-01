@@ -1,9 +1,10 @@
 # Customer_Register_Login_Logout
 
+Rest-full Api..
 
 http://localhost:8080/swagger-ui/#
 
-RequestBody Sample..
+RequestBody Sample..  Register
 
 http://localhost:8080/customer/register
 
@@ -17,7 +18,7 @@ http://localhost:8080/customer/register
   "password": "1234567890"
 }
 
-
+RequestBody Sample Request for Login..
 
 
 http://localhost:8080/customer/login
@@ -28,6 +29,9 @@ http://localhost:8080/customer/login
 }
 
 
+Request Body Url to Logout
+
+http://localhost:8080/customer/logout
 
 
 
